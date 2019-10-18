@@ -1,8 +1,8 @@
 {
   "requisitions": [
     {
-      "image": "new",
-      "post_status": "1",
+      "image": "https://via.placeholder.com/150x150",
+      "post_status": "draft",
       "job_title": "Director",
       "job_type": "Full Time",
       "posted": "2 days ago",
@@ -11,8 +11,8 @@
       "id": 1
     },
     {
-      "image": "new",
-      "post_status": "1",
+      "image": "https://via.placeholder.com/150x150",
+      "post_status": "closed",
       "job_title": "Director",
       "job_type": "Full Time",
       "posted": "2 days ago",
@@ -21,8 +21,8 @@
       "id": 2
     },
     {
-      "image": "new",
-      "post_status": "1",
+      "image": "https://via.placeholder.com/150x150",
+      "post_status": "open",
       "job_title": "Director",
       "job_type": "Full Time",
       "posted": "2 days ago",
@@ -31,8 +31,8 @@
       "id": 3
     },
     {
-      "image": "new",
-      "post_status": "1",
+      "image": "https://via.placeholder.com/150x150",
+      "post_status": "draft",
       "job_title": "Director",
       "job_type": "Full Time",
       "posted": "2 days ago",
@@ -41,8 +41,8 @@
       "id": 4
     },
     {
-      "image": "new",
-      "post_status": "1",
+      "image": "https://via.placeholder.com/150x150",
+      "post_status": "closed",
       "job_title": "Director",
       "job_type": "Full Time",
       "posted": "2 days ago",
